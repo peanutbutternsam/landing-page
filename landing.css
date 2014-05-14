@@ -1,0 +1,255 @@
+body {
+	background:url(dark_mosaic.png);
+}
+
+#wrap {
+	position:relative;
+	margin: 32px 32px 32px;
+	height:1242px;
+	width:1360px;
+	background:radial-gradient(#002a53,#101010);
+	border:1px;
+	border-image:linear-gradient(#10103E,#002A7A,#10103E) 2% stretch;
+}
+
+#header {
+	position: absolute;
+	margin:16px 16px 0px 16px;
+	width:1330px;
+	height:100px;
+	background: linear-gradient(#0455a4,#00183e);
+	border-bottom:1px solid #05467e;
+}
+
+#middle {
+	float:left;
+	position:absolute;
+	margin:336px 16px 0px 16px;
+	width:1330px;
+	height:350px;
+	text-align: center;
+
+}
+
+
+#footer {
+	position: absolute;
+	margin-left:16px;
+	bottom:16px; 
+	width:1330px;
+	height:150px;
+	background:linear-gradient(#202020, #181818);
+	border:1px;
+	border-image:linear-gradient(#022252,#001c46) 2% stretch;
+}
+
+img {
+	position: absolute;
+	height:6em;
+	width: auto;
+	left:0;
+	bottom:0;
+	margin-left: 
+}
+
+#buttons {
+	font-family:lucida;
+	position: absolute;
+	float:right;
+	width:660px;
+	height:100%;
+	right:0;
+	bottom:0;
+}
+
+li {
+	
+	font-family: andale mono;
+	color:white;
+	display:inline-block;
+	margin:2px;
+	bottom:0;
+	background:linear-gradient(#034496,#01295c);
+	border:1px solid #228def;
+	border-radius:2px;
+	box-shadow: -1px 0px 2px 1px #40beee;
+	text-align: center;
+	vertical-align: middle;
+	line-height: 80px;
+	font-size: 24px;
+
+}
+
+li:hover{
+	box-shadow: -2px 0px 10px 1px #33abe7;
+	border:1px solid #228def;
+	border-radius:2px;
+}
+
+
+
+ul{
+	position:absolute;
+	right: 0;
+	bottom:0;
+	width:100%;
+	height:92%;
+	margin:0;
+}
+
+#b1{
+	width:155px;
+	height:80px;
+	
+
+}
+
+#b2{
+	width:155px;
+	height:80px;
+
+}
+
+#b3{
+	width:155px;
+	height:80px;
+
+}
+
+#b4{
+	width:155px;
+	height:80px;
+
+}
+
+#main-pic {
+	float:left;
+	width:830px;
+	height:520px;
+	margin:0px 5px;
+	box-shadow: -1px 0px 2px 1px #a3cef8;	
+}
+
+p {
+	float:right;
+	width:470px;
+	height:200px;
+	text-align: justify;
+	margin:-175px 10px;
+	font-size: 18px;
+	color:#C0C0F3;
+	font-family: andale mono;
+	line-height: 28px;
+}
+
+#box1{
+	display:inline-block;
+	width:400px;
+	height:320px;
+	border:1px;
+	margin:712px 28px 16px 16px;
+	background:linear-gradient(#202020, #181818);
+	border-image: linear-gradient(#40beee,#034496) 2% stretch;
+	color:white;
+	font-family: sans-serif;
+	text-align: center;
+	vertical-align: middle;
+	line-height: 100px;
+	font-size: 40px;
+}
+
+#box2 {
+	display: inline-block;
+	width:400px;
+	height:320px;
+	border:1px;
+	margin:712px 28px 16px 28px;
+	background:linear-gradient(#202020, #181818);
+	border-image: linear-gradient(#40beee,#034496) 2% stretch;
+	color:white;
+	font-family: sans-serif;
+	text-align: center;
+	vertical-align: middle;
+	line-height: 100px;
+	font-size: 40px;
+
+}
+
+#box3 {
+	display:inline-block;
+	width:400px;
+	height:320px;
+	border:1px;
+	margin:712px 16px 16px 28px;
+	background: linear-gradient(#202020, #181818);
+	border-image: linear-gradient(#40beee,#034496) 2% stretch;
+	color:white;
+	font-family: sans-serif;
+	text-align: center;
+	vertical-align: middle;
+	line-height: 100px;
+	font-size: 40px;
+}
+
+#controller {
+	height:100px;
+	width:100px;
+	position:absolute;
+	margin:400px 165px;
+
+}
+
+#box1t {
+	position:absolute;
+	width:300px;
+	height:300px;
+	margin:150px 50px;
+	text-align: center;
+	font-size: 26px;
+	line-height: 40px;
+	
+}
+
+#future {
+	height:100px;
+	width:100px;
+	float:left;
+	margin:400px 630px;
+}
+
+#box2t {
+	position: absolute;
+	width:300px;
+	height:300px;
+	margin:150px 50px;
+	text-align: center;
+	font-size: 26px;
+	line-height: 40px;
+	
+}
+
+#github {
+	height:100px;
+	width:100px;
+	margin:400px 1100px;
+
+}
+
+#box3t {
+	position: absolute;
+	width:300px;
+	height:300px;
+	margin:150px 50px;
+	text-align: center;
+	font-size: 26px;
+	line-height: 40px;
+	
+}
+
+
+
+
+
+
+
+
